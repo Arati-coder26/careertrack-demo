@@ -59,7 +59,7 @@ CareerTrack helps reduce the stress of managing multiple applications by turning
 
 ## Public demo
 
-This repository contains the public showcase only. The runnable preview is the compiled static site in `public-site/`; the complete TypeScript, React, Node, API, and database implementation is kept separately.
+This repository contains only the clean public showcase. The runnable preview is the compiled static site in `public-site/`; the complete TypeScript, React, Node, API, and database implementation is kept in a separate private copy.
 
 To preview the static files locally:
 
@@ -73,6 +73,6 @@ Source code, local environment files, credentials, and application data are inte
 
 ## Public showcase note
 
-This repository is intentionally presented as a product showcase and sample implementation view. The real production implementation, sensitive configuration, and internal code paths remain private.
+This repository is intentionally presented as a product showcase, not the full production codebase. Sensitive configuration, internal code paths, and the complete implementation remain private and can be shared separately when appropriate.
 
 The goal here is to share the product experience, the user workflow, and the output value without exposing the full implementation details.
