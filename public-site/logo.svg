@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CareerTrack logo">
+<defs>
+  <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+    <stop offset="0%" stop-color="#7c3aed"/>
+    <stop offset="100%" stop-color="#22c55e"/>
+  </linearGradient>
+</defs>
+<rect width="512" height="512" rx="120" fill="#0f172a"/>
+<rect x="54" y="54" width="404" height="404" rx="96" fill="url(#bg)" opacity="0.96"/>
+<path d="M154 176h204c21 0 38 17 38 38v103c0 21-17 38-38 38H154c-21 0-38-17-38-38V214c0-21 17-38 38-38zm35 57h134v38H189zm0 66h102v38H189z" fill="#f8fafc" opacity="0.98"/>
+<circle cx="357" cy="200" r="33" fill="#f8fafc"/>
+<path d="M357 234c-27 0-49 22-49 49v25h98v-25c0-27-22-49-49-49z" fill="#f8fafc" opacity="0.9"/>
+</svg>
