@@ -57,9 +57,9 @@ Example dashboard summary:
 
 CareerTrack helps reduce the stress of managing multiple applications by turning a messy search into a clear, trackable workflow. It is especially useful for job seekers who want a lightweight system for staying consistent without juggling spreadsheets or scattered notes.
 
-## Public demo
+## Overview
 
-This repository contains only the clean public showcase. The runnable preview is the compiled static site in `public-site/`; the complete TypeScript, React, Node, API, and database implementation is kept in a separate private copy.
+This repository provides a streamlined public demo of the product. The static preview is available in public-site/, while the full implementation (TypeScript, React, Node.js, API, and database) remains in a private repository.
 
 To preview the static files locally:
 
@@ -67,12 +67,10 @@ To preview the static files locally:
 npx serve public-site
 ```
 
-## Repository safety
+## Safety & Privacy
 
-Source code, local environment files, credentials, and application data are intentionally excluded from this public repository. Never commit API keys, database credentials, tokens, or personal application records.
+Sensitive files — including source code, environment variables, credentials, and application data — are intentionally excluded. Never commit API keys, tokens, or database credentials.
 
-## Public showcase note
+## Purpose
 
-This repository is intentionally presented as a product showcase, not the full production codebase. Sensitive configuration, internal code paths, and the complete implementation remain private and can be shared separately when appropriate.
-
-The goal here is to share the product experience, the user workflow, and the output value without exposing the full implementation details.
+This repository is designed to highlight the product experience and workflow. Internal logic.
