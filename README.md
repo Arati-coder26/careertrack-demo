@@ -73,4 +73,4 @@ Sensitive files — including source code, environment variables, credentials, a
 
 ## Purpose
 
-This repository is designed to highlight the product experience and workflow. Internal logic.
+This repository is designed to highlight the product experience and workflow.
